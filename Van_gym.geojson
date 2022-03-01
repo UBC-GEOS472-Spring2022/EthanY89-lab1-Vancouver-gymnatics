@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The ARC",
+        "address": "6183 Student Union Blvd"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.249884,
+          49.267499
+        ],
+        "type": "Point"
+      },
+      "id": "0a9dbd6b7eb3b28036b53712cafacadb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Academy-Institute of Higher Stamina",
+        "address": "4439 W 10th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.207355,
+          49.263975
+        ],
+        "type": "Point"
+      },
+      "id": "2ee860bb88bcbdeabfb779af6894402f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitness Essentials",
+        "address": "180-4255 Arbutus St"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.154446,
+          49.248217
+        ],
+        "type": "Point"
+      },
+      "id": "323e4af98df696e07631e454f8eafe89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prime Personal Training ",
+        "address": "3636 W 16th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.186128,
+          49.257714
+        ],
+        "type": "Point"
+      },
+      "id": "397b17423bbf283d18f32ed8c7aa32e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TurnFit Personal Training ",
+        "address": "3313 W Broadway"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.178103,
+          49.26439
+        ],
+        "type": "Point"
+      },
+      "id": "44ccbf59b0554d6b3a5915951b7cb5c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innovative Fitness",
+        "address": "2080 W 10th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.152143,
+          49.262708
+        ],
+        "type": "Point"
+      },
+      "id": "4b1dac44f6c25abc699aef74db817f2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curves",
+        "address": "2570 Tolmie St"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.211735,
+          49.26411
+        ],
+        "type": "Point"
+      },
+      "id": "54b8916f5507e3478af96507be6100f4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "30 Minute Hit",
+        "address": "3516 W 41st Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.182737,
+          49.234485
+        ],
+        "type": "Point"
+      },
+      "id": "5adb857ad318dbecb5571a335d4d706c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curves",
+        "address": "2947 W 4th Ave"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.170039,
+          49.26867
+        ],
+        "type": "Point"
+      },
+      "id": "5ec9b99c1ac93f1fe235bda4aeeac111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Live Well Exercise Clinic ",
+        "address": "303-5511 West Blvd "
+      },
+      "geometry": {
+        "coordinates": [
+          -123.155727,
+          49.236168
+        ],
+        "type": "Point"
+      },
+      "id": "5fa36c6d7275dc43d9179828067ed325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "UBC War Memorial Gym",
+        "address": "6081 University Blvd"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.247588,
+          49.266778
+        ],
+        "type": "Point"
+      },
+      "id": "610c5fd986831f8938d329ad9e86d113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold's Gym",
+        "address": "230-2155 Allison Rd"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.242191,
+          49.266239
+        ],
+        "type": "Point"
+      },
+      "id": "7c7bc3fe2615952e845ee0347f2f0f2c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ron Zalko Fitness & Yoga",
+        "address": "1807 W 1st Ave "
+      },
+      "geometry": {
+        "coordinates": [
+          -123.146733,
+          49.270798
+        ],
+        "type": "Point"
+      },
+      "id": "a8113aae97bbf15846f228289898ddd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugarrays",
+        "address": "1738 West 3rd Avenue, Vancouver, British Columbia V6J 1K4, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.144313,
+          49.268617
+        ],
+        "type": "Point"
+      },
+      "id": "address.3050967968450162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prime Personal Training ",
+        "address": "1762 West 8th Avenue, Vancouver, British Columbia V6J 4T3, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.144307,
+          49.264603
+        ],
+        "type": "Point"
+      },
+      "id": "address.3462732720401608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fitness World ",
+        "address": "2050 West Broadway, Vancouver, British Columbia V6J 1Z4, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.151774,
+          49.263754
+        ],
+        "type": "Point"
+      },
+      "id": "address.4427198603312352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crossfit West10",
+        "address": "3754 West 10th Avenue, Vancouver, British Columbia V6R 2G4, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.187082,
+          49.263505
+        ],
+        "type": "Point"
+      },
+      "id": "address.5066285324406040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CrossFit Empower",
+        "address": "2083 Alma Street, Vancouver, British Columbia V6R 4N6, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.186389,
+          49.268214
+        ],
+        "type": "Point"
+      },
+      "id": "address.581033061638204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cadence Cycling",
+        "address": "1529 West 6th Avenue, Vancouver, British Columbia V6J 1R1, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.139585,
+          49.266529
+        ],
+        "type": "Point"
+      },
+      "id": "address.635827891249882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Personal Training Studio",
+        "address": "2036 West 11th Avenue, Vancouver, British Columbia V6K 3T6, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.16477,
+          49.26223
+        ],
+        "type": "Point"
+      },
+      "id": "address.6618239247289770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jennamaye Fitness",
+        "address": "1540 West 2nd Avenue, Vancouver, British Columbia V6J 1H2, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.139846,
+          49.269421
+        ],
+        "type": "Point"
+      },
+      "id": "address.6781367101890234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Method Cycling Kitsilano",
+        "address": "2020 Arbutus Street, Vancouver, British Columbia V6J 1M9, Canada"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.152499,
+          49.267864
+        ],
+        "type": "Point"
+      },
+      "id": "address.679234031189778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F45 Training",
+        "address": "3349 W Broadway "
+      },
+      "geometry": {
+        "coordinates": [
+          -123.178565,
+          49.264399
+        ],
+        "type": "Point"
+      },
+      "id": "b69ae8208498c063facdf160504a454e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rovert F. Osborne Center",
+        "address": "6108 Thunderbird Blvd"
+      },
+      "geometry": {
+        "coordinates": [
+          -123.243715,
+          49.26035
+        ],
+        "type": "Point"
+      },
+      "id": "d2b282816503eed9477bf7839c85593a"
+    }
+  ],
+  "type": "FeatureCollection"
+}
